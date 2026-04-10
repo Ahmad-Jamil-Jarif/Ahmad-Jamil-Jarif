@@ -82,33 +82,7 @@ I'm a Computer Science undergraduate with a deep passion for the intersection of
 
 ---
 
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Jamil-Jarif&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" width="48%" alt="Most Used Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmad-Jamil-Jarif&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmad-Jamil-Jarif&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🏆 **Achievements & Recognition**
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ahmad-Jamil-Jarif&theme=tokyonight&no-frame=true&row=1" alt="Ahmad-Jamil-Jarif" />
-  </a>
-</div>
-
----
-
-## 🎯 **2025 Goals & Aspirations**
+## 🎯 **2026 Goals & Aspirations**
 
 <table align="center">
 <tr>
