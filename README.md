@@ -13,9 +13,9 @@
 
 ## 🚀 **About Me**
 
-I'm a Computer Science undergraduate with a deep passion for the intersection of creativity and technology. Whether I'm crafting a beautiful frontend UI, exploring how humans interact with AI, or capturing the world through my camera lens — I bring an artistic perspective to everything I build.
+I'm a Computer Science undergraduate with a deep passion for the intersection of creativity and technology. Whether I'm crafting a beautiful frontend UI, exploring how humans interact with AI, or capturing the world through my camera lens I bring an artistic perspective to everything I build.
 
-🎯 My dream is to be an entrepreneur who uses technology as a creative force — building products that are not just functional, but meaningful. I believe great software, like great art, tells a story.
+🎯 My dream is to be an entrepreneur who uses technology as a creative force building products that are not just functional, but meaningful. I believe great software, like great art, tells a story.
 
 - 👨‍💻 All of my projects are available at [github.com/Ahmad-Jamil-Jarif](https://github.com/Ahmad-Jamil-Jarif?tab=repositories)
 - 💬 Ask me about **Frontend Development, AI & Human Interactions, Photography, UI Design, and Game Development**
@@ -34,6 +34,7 @@ I'm a Computer Science undergraduate with a deep passion for the intersection of
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -47,6 +48,7 @@ I'm a Computer Science undergraduate with a deep passion for the intersection of
 
 ### **Areas of Interest**
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/Natural_Language_Processing-8A2BE2?style=for-the-badge&logo=googletranslate&logoColor=white)
 ![Web Dev](https://img.shields.io/badge/Web_Development-0096FF?style=for-the-badge&logo=react&logoColor=white)
 ![Game Dev](https://img.shields.io/badge/Game_Development-6A0DAD?style=for-the-badge&logo=unity&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data_Science-20B2AA?style=for-the-badge&logo=jupyter&logoColor=white)
